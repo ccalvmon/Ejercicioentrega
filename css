@@ -33,26 +33,23 @@
     justify-content: space-around;
     padding: 10px;
   }
-
- .AutorT{
-  display: flex;
-  justify-content: flex-start;
-  flex-direction: column;
-
- }
- #Autor1{
-  text-align: center;
-  width: 50%;
-}
  #IMG1{
   width: 100%;
 }
 .Arenita1{
   display: flex;
   justify-content: flex-end
-
- }
+}
  #Arenita{
+  text-align: center;
+  width: 50%;
+}
+.Trio1{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+ #Trio{
   text-align: center;
   width: 50%;
 }
